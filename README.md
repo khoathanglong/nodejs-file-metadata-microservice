@@ -6,6 +6,8 @@ User Story: When I submit something, I will receive the file size in bytes withi
 
 Modules used: "express" to create server and "multer" to handle upload file
 
+Application link: https://longkhoa-file-metadata-microservice.glitch.me/
+
     const express=require('express')
 
     const app = express();
